@@ -1,4 +1,4 @@
-![Banner](banner.png)
+
 
 # Hi, I'm Simone 👋
 
