@@ -1,5 +1,5 @@
+![](banner.png)
 
-(banner.jpg)
 
 
 # Hi, I'm Simone 👋
