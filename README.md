@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 # Hi, I'm Simone 👋
 
 Cybersecurity student focused on penetration testing, OSINT, and secure infrastructure analysis.  
