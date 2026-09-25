@@ -22,6 +22,28 @@ I build educational pentest simulations using OWASP, PTES, and CVSS v3.1.
 
 ---
 
+## 🚀 My Cybersecurity Projects
+
+### 🔎 OSINT-Investigation-Lab  
+OSINT investigation with data collection, pivoting, and structured reporting.
+
+### 🔐 TLS-Security-Analysis-Lab  
+TLS/HTTPS auditing using testssl.sh and SSLyze, cipher suite evaluation, and security recommendations.
+
+### 📧 Email-Security-Lab  
+SPF, DKIM, DMARC analysis with posture assessment and hardening guidelines.
+
+### 🌐 Network-Scanning-Lab  
+Nmap scanning (basic, service detection, vulnerability scan), port/service analysis, and automation scripts.
+
+### 🏥 Pentest-Simulation-Healthcare  
+Full penetration test simulation: reconnaissance, vulnerability analysis, exploitation, and final report.
+
+### 🚨 Incident-Response-Lab  
+Incident response simulation: evidence collection, log analysis, containment, eradication, and recovery.
+
+---
+
 ## 📂 Featured Projects
 
 ### 🔸 Pentest Simulation – RetailCompany  
@@ -50,17 +72,6 @@ Educational penetration testing project (GDPR-safe)
 I work on educational penetration testing simulations using industry methodologies such as OWASP WSTG, PTES, and CVSS v3.1.  
 I focus on OSINT, network analysis, TLS security, email security posture, and vulnerability assessment.  
 My goal is to become a cybersecurity analyst specialized in penetration testing and secure infrastructure analysis.
-
----
-
-## 🛠 Future Portfolio Projects
-
-- TLS Security Analysis Lab  
-- Email Security Lab (SPF, DKIM, DMARC)  
-- OSINT Investigation Lab  
-- Pentest Simulation – Healthcare  
-- Pentest Simulation – Banking  
-- Cybersecurity Portfolio (full index of all projects)
 
 ---
 
